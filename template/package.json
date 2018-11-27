@@ -3,7 +3,7 @@
   "version": "{{ version }}",
   "description": "{{ description }}",
   "author": "{{ author }}",
-  "private": "true",
+  "private": true,
   "license": "MIT",
   "keywords": [
     "vue plugin"
